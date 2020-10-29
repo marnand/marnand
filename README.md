@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 Olá, sou Márnand Fernandes sou Desenvolvedor Front-end.
-Estou cursando Análise e Desenvolvimento de Sistemas e estudando Front-end com ReactJS atualmente.
+Estou cursando Análise e Desenvolvimento de Sistemas 
+e estudando Front-end com ReactJS atualmente.
 
 🚀 Conhecimentos-Front: HTML5, CSS3, JavaScript, Bootstrap, ReactJS.
 🚀 Conhecimentos-Back: PHP, Laravel, SQL.
