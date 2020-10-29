@@ -1,5 +1,5 @@
 ### Hi there 👋
-  <img align="right" width="400" height="200" src="https://lukaszadam.com/assets/downloads/hero-illustration.svg">
+  <img align="right" width="200" height="200" src="https://lukaszadam.com/assets/downloads/hero-illustration.svg">
   
 Olá, sou Márnand Fernandes sou **Desenvolvedor Front-end**. 
 Estou cursando Análise e Desenvolvimento de Sistemas 
