@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Olá, sou Márnand Fernandes sou Desenvolvedor Front-end.
+Olá, sou Márnand Fernandes sou ### Desenvolvedor Front-end.
 Estou cursando Análise e Desenvolvimento de Sistemas 
 e estudando Front-end com ReactJS atualmente.
 
