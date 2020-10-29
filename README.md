@@ -1,7 +1,7 @@
 ### Hi there 👋
   <img align="right" width="200" height="200" src="https://lukaszadam.com/assets/downloads/hero-illustration.svg">
   
-Olá, sou Márnand Fernandes sou **Desenvolvedor Front-end**. 
+Olá, sou Márnand Fernandes sou **Desenvolvedor Front-end**. <br>
 Estou cursando Análise e Desenvolvimento de Sistemas 
 e estudando Front-end com ReactJS atualmente.
 
