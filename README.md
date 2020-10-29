@@ -14,9 +14,8 @@ e estudando Front-end com ReactJS atualmente.
 
 PS.: :penguin: Apaixonado por sistemas de Kernel **Linux**
 
-<a href="https://google.com" target="_blank">google</a>
-
 <!--
+<a href="https://google.com">google</a>
 💌 Caso você queira realizar um projeto comigo (ou jogar conversa fora), não hesite em mandar-me uma mensagem: ⤵️
 -->
 
