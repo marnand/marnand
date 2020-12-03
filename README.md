@@ -6,11 +6,11 @@ Estou cursando Análise e Desenvolvimento de Sistemas
 e estudando Front-end com ReactJS atualmente.
 
 🚀 Conhecimentos-Front: **HTML5, CSS3, JavaScript - ES6+, Bootstrap, ReactJS**. <br>
-🚀 Conhecimentos-Back: **PHP, Node, SQL**.
+🚀 Conhecimentos-Back: **PHP, Node JS, SQL**.
 
 :briefcase: Ferramentas: **Visual Studio Code, Flaticon, Material io, GitHub**.
 
-:computer: Pretendo aprender: **Firebase, AWS, Mongodb, React Native, AngularJS, Vue.JS, TypeScript, Next.JS, Node.JS e UX Design**.
+:computer: Pretendo aprender: **Firebase, AWS, Mongodb, React Native, AngularJS, Vue.JS, TypeScript, e UX Design**.
 
 PS.: :penguin: Apaixonado por sistemas de Kernel **Linux**
 
