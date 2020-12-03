@@ -6,7 +6,7 @@ Estou cursando Análise e Desenvolvimento de Sistemas
 e estudando Front-end com ReactJS atualmente.
 
 🚀 Conhecimentos-Front: **HTML5, CSS3, JavaScript - ES6+, Bootstrap, ReactJS**. <br>
-🚀 Conhecimentos-Back: **SQL**.
+🚀 Conhecimentos-Back: **PHP, Node, SQL**.
 
 :briefcase: Ferramentas: **Visual Studio Code, Flaticon, Git e GitHub**.
 
