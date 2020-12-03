@@ -5,12 +5,12 @@ Olá, sou Márnand Fernandes sou **Desenvolvedor Front-end**. <br>
 Estou cursando Análise e Desenvolvimento de Sistemas 
 e estudando Front-end com ReactJS atualmente.
 
-🚀 Conhecimentos-Front: **HTML5, CSS3, JavaScript, Bootstrap, ReactJS**. <br>
+🚀 Conhecimentos-Front: **HTML5, CSS3, JavaScript - ES6+, Bootstrap, ReactJS**. <br>
 🚀 Conhecimentos-Back: **SQL**.
 
 :briefcase: Ferramentas: **Visual Studio Code, Flaticon, Git e GitHub**.
 
-:computer: Pretendo aprender: **Firebase, AWS, Mongodb, ES6+, React Native, AngularJS, Vue.JS, TypeScript, Next.JS, Node.JS e UX Design**.
+:computer: Pretendo aprender: **Firebase, AWS, Mongodb, React Native, AngularJS, Vue.JS, TypeScript, Next.JS, Node.JS e UX Design**.
 
 PS.: :penguin: Apaixonado por sistemas de Kernel **Linux**
 
