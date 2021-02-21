@@ -1,16 +1,16 @@
 ### Hi there 👋
   <img align="right" width="200" height="200" src="https://lukaszadam.com/assets/downloads/hero-illustration.svg">
   
-Olá, sou Márnand Fernandes sou **Desenvolvedor Front-end**. <br>
+Olá, sou Márnand Fernandes sou **Desenvolvedor Pré-Júnior** na empresa Tecnologia Única. <br>
 Estou cursando Análise e Desenvolvimento de Sistemas 
 e estudando Front-end com ReactJS atualmente.
 
 🚀 Conhecimentos-Front: **HTML5, CSS3, JavaScript - ES6+, Bootstrap, ReactJS**. <br>
-🚀 Conhecimentos-Back: **PHP, Node JS, SQL**.
+🚀 Conhecimentos-Back: **PHP, Node JS, SQL, ASP.NET C#**.
 
-:briefcase: Ferramentas: **Visual Studio Code, Flaticon, Material io, GitHub**.
+:briefcase: Ferramentas: **Visual Studio, Visual Studio Code, Flaticon, Material io, GitHub**.
 
-:computer: Pretendo aprender: **Firebase, AWS, Mongodb, React Native, AngularJS, Vue.JS, TypeScript, e UX Design**.
+:computer: Pretendo aprender: **Firebase, AWS, Mongodb, React Native, AngularJS, Vue.JS, TypeScript**.
 
 PS.: :penguin: Apaixonado por sistemas de Kernel **Linux**
 
