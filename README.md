@@ -5,10 +5,10 @@ Olá, sou Márnand Fernandes sou **Desenvolvedor Pré-Júnior** na empresa ❤�
 Estou cursando Análise e Desenvolvimento de Sistemas 
 e estudando Front-end com ReactJS atualmente.
 
-🚀 Conhecimentos-Front: **HTML5, CSS3, JavaScript - ES6+, Bootstrap, ReactJS**. <br>
+🚀 Conhecimentos-Front: **HTML5, CSS3, JavaScript - JQuery, Bootstrap, ReactJS**. <br>
 🚀 Conhecimentos-Back: **PHP, Node JS, SQL, ASP.NET C#**.
 
-:briefcase: Ferramentas: **Visual Studio, Visual Studio Code, Flaticon, Material io, GitHub**.
+:briefcase: Ferramentas: **Visual Studio, Visual Studio Code, MySQL Workbench, SQL Server, Flaticon, Material io, GitHub**.
 
 :computer: Pretendo aprender: **Firebase, AWS, Mongodb, React Native, AngularJS, Vue.JS, TypeScript**.
 
