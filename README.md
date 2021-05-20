@@ -1,9 +1,8 @@
 ### Hi there 👋
   <img align="right" width="200" height="200" src="https://lukaszadam.com/assets/downloads/hero-illustration.svg">
   
-Olá, sou Márnand Fernandes sou **Desenvolvedor Pré-Júnior** na empresa ❤️Tecnologia Única. <br>
-Estou cursando Análise e Desenvolvimento de Sistemas 
-e estudando Front-end com ReactJS atualmente.
+Olá, sou Márnand Fernandes sou **Desenvolvedor Web** na empresa Tecnologia Única. <br>
+Estou cursando Análise e Desenvolvimento de Sistemas.
 
 🚀 Conhecimentos-Front: **HTML5, CSS3, JavaScript - JQuery, Bootstrap, ReactJS**. <br>
 🚀 Conhecimentos-Back: **PHP, Node JS, SQL, C#**.
