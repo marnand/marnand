@@ -4,12 +4,10 @@
 Olá, sou Márnand Fernandes sou **Desenvolvedor Web** na empresa Tecnologia Única. <br>
 Estou cursando Análise e Desenvolvimento de Sistemas.
 
-🚀 Conhecimentos-Front: **HTML5, CSS3, JavaScript - JQuery, Bootstrap, ReactJS**. <br>
-🚀 Conhecimentos-Back: **PHP, Node JS, SQL, C#**.
+🚀 Conhecimentos-Front: **HTML5, CSS3, JavaScript - JQuery, Bootstrap, ReactJS, Angular**. <br>
+🚀 Conhecimentos-Back: **PHP, Node JS, SQL, C#, Asp .NET**.
 
-:briefcase: Ferramentas: **Visual Studio, Visual Studio Code, ASP.NET, MySQL Workbench, SQL Server, Flaticon, Material io, GitHub**.
-
-:computer: Pretendo aprender: **Firebase, AWS, Mongodb, React Native, AngularJS, Vue.JS, TypeScript**.
+:computer: Pretendo aprender: **Firebase, AWS, Mongodb, React Native, Vue.JS, TypeScript**.
 
 PS.: :penguin: Apaixonado por sistemas de Kernel **Linux**
 
